@@ -1,5 +1,5 @@
 # Graylog CLI dashboard
-This is the [Graylog stream dashboard](https://github.com/Graylog2/cli-dashboard) optimised to 'tail' for message streams. 
+This is the [Graylog stream dashboard](https://github.com/Graylog2/cli-dashboard) optimised to 'tail' message streams. 
 This is meant to cater for use cases where you may be interested in directly monitoring a stream of messages e.g. tail -f semantics. 
 
 If you are interested in also being able to monitor stream trends e.g. throughput, errors etc, the original version of the cli-dashboard may be useful. 
